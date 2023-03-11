@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "716322379764",
+    "firebase_url": "https://selfyclub-245bb-default-rtdb.firebaseio.com",
+    "project_id": "selfyclub-245bb",
+    "storage_bucket": "selfyclub-245bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716322379764:android:8e4661974c705007c20ba1",
+        "android_client_info": {
+          "package_name": "com.selfyclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716322379764-ruvdjhjhfebg4h2eh58ijfl2l7qs34r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAafscNXCPboFcD3b_ijLCL5Fghh9U1tDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716322379764-ruvdjhjhfebg4h2eh58ijfl2l7qs34r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
